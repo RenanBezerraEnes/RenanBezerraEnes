@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **renanbezerraenes@icloud.com** or https://www.linkedin.com/in/renanbezerra/
+- 📫 How to reach me **renanbezerraenes@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

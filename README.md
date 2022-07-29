@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="[https://i.gifer.com/L87r.gif(https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg)](https://www.techmindz.com/wp-content/uploads/2021/05/4-Powerful-technologies-in-1-MERN-STACK.jpg)">
+<img align="center" alt="Coding" width="400" src="https://www.techmindz.com/wp-content/uploads/2021/05/4-Powerful-technologies-in-1-MERN-STACK.jpg">
 
 <h1 align="center">Hi 👋, I'm Renan Bezerra</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>

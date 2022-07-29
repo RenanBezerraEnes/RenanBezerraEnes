@@ -5,6 +5,5 @@ I really enjoy learning languages and frameworks like React and TypeScript for t
 
 Skills: | HTML | CSS | JavaScript (ES6+) | BOOTSTRAP | MATERIAL UI | REACT.JS | MONGODB | NODE.JS | EXPRESS.JS | HEROKU | VERCEL
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renanbezerraenes)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanbezerraenes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanbezerraenes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

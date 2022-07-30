@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Renan Bezerra</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/L87r.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renanbezerraenes&label=Profile%20views&color=0e75b6&style=flat" alt="renanbezerraenes" /> </p>

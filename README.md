@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
+- 💬 **I'm working at the moment, not so many commits here :)**
+
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **renanbezerraenes@icloud.com**

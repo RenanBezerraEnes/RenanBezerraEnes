@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://www.techmindz.com/wp-content/uploads/2021/05/4-Powerful-technologies-in-1-MERN-STACK.jpg">
+<img align="center" alt="Coding" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Renan Bezerra</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>

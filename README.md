@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renanbezerraenes&label=Profile%20views&color=0e75b6&style=flat" alt="renanbezerraenes" /> </p>
 
-- 🌱 I’m currently learning **ANGULAR, NEST.JS**
+- 🌱 I’m currently learning **ANGULAR, NEST.JS, ServiceNOW**
 
 - 💬 **I'm working at the moment, not so many commits here :)**
 

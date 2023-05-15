@@ -1,7 +1,20 @@
 <img align="center" alt="Coding" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<h1 align="center">Hi 👋, I'm Renan Bezerra</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Hi there, I'm Renan! 👋
+
+I'm a Full Stack Developer with a passion for problem-solving and a love for learning new technologies. Currently, I'm working as a ServiceNow Developer, where I develop and maintain custom applications and integrations for clients. My experience with ServiceNow has allowed me to gain expertise in JavaScript, AngularJS, Bootstrap, and REST APIs.
+
+In addition to my work as a ServiceNow Developer, I also have experience as a Frontend Developer. In this role, I was responsible for developing and maintaining features on their website and app to support a large number of users, ensuring fast and performative service. My skills in software development, coding practices, and expertise in HTML5, CSS3, JavaScript, React.Js, Next.Js, Ant Design, and Leaflet.Js helped me excel in this role.
+
+I'm also an app developer. I created an app called "Moming", which was inspired by mothers who often lose social contact after becoming moms. The purpose of the app is to provide a community just for them. I developed the entire frontend and backend of the app. For the frontend, I utilized HTML, CSS, JavaScript, React, and Material UI to create a visually appealing and user-friendly interface. For the backend, I used Node.js, Express.js, and Socket.IO to handle the server-side logic and real-time communication between users.
+
+Working on Moming was a challenging yet rewarding experience that allowed me to showcase my skills as a Full Stack Developer. It taught me the importance of creating solutions that address real-world problems and the value to deliver a high-quality product.
+
+Before my career in tech, I was a professional Muay Thai fighter and teacher for over 10 years. This experience instilled in me the values of persistence, discipline, leadership, and teamwork that have carried over to my work in technology.
+
+In my free time, I enjoy cooking and experimenting with new recipes. I'm always open to collaboration and new ideas, so feel free to get in touch if you have any projects or advice you'd like to discuss!
+
+You can also find me on LinkedIn at https://www.linkedin.com/in/renanbezerra/</h3>
 <img align="right" alt="Coding" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 

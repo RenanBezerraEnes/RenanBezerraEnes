@@ -20,7 +20,7 @@ You can also find me on LinkedIn at https://www.linkedin.com/in/renanbezerra/</h
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renanbezerraenes&label=Profile%20views&color=0e75b6&style=flat" alt="renanbezerraenes" /> </p>
 
-- 🌱 I’m currently learning **ITSM, ITIL, DEVELOPMENT IN SERVICENOW**
+- 🌱 I’m currently learning **ITSM, ITIL, ANGULAR, JAVA, .NET**
 
 - 💬 **I'm working at the moment as a ServiceNow Developer for Affinis, and as a Software Developer for Allianz, not so many commits here :)**
 

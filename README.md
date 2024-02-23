@@ -12,7 +12,7 @@ Working on Moming was a challenging yet rewarding experience that allowed me to 
 
 Before my career in tech, I was a professional Muay Thai fighter and teacher for over 10 years. This experience instilled in me the values of persistence, discipline, leadership, and teamwork that have carried over to my work in technology.
 
-Currently, I am also working with C# and .NET, expanding my skill set and contributing to various projects in this ecosystem.
+Currently, I am also working with C# and .NET.
 
 In my free time, I enjoy cooking and experimenting with new recipes. I'm always open to collaboration and new ideas, so feel free to get in touch if you have any projects or advice you'd like to discuss!
 

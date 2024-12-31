@@ -2,20 +2,17 @@
 
 <h3 align="center">Hi there, I'm Renan! 👋
 
-I'm a Full Stack Developer with a passion for problem-solving and a love for learning new technologies. Currently, I'm working as a ServiceNow Developer, where I develop and maintain custom applications and integrations for clients. My experience with ServiceNow has allowed me to gain expertise in JavaScript, AngularJS, Bootstrap, and REST APIs.
+Hi there, I'm Renan! 👋
 
-In addition to my work as a ServiceNow Developer, I also have experience as a Frontend Developer. In this role, I was responsible for developing and maintaining features on their website and app to support a large number of users, ensuring fast and performative service. My skills in software development, coding practices, and expertise in HTML5, CSS3, JavaScript, React.Js, Next.Js, Ant Design, and Leaflet.Js helped me excel in this role.
+I'm a Full Stack Developer with a passion for problem-solving and a love for learning new technologies. As a ServiceNow Developer, I design, develop, and maintain custom applications and integrations for clients. This role has provided me with extensive experience in JavaScript, AngularJS, Bootstrap, and REST APIs, enabling me to create efficient, user-focused solutions.
 
-I'm also an app developer. I created an app called "Moming", which was inspired by mothers who often lose social contact after becoming moms. The purpose of the app is to provide a community just for them. I developed the entire frontend and backend of the app. For the frontend, I utilized HTML, CSS, JavaScript, React, and Material UI to create a visually appealing and user-friendly interface. For the backend, I used Node.js, Express.js, and Socket.IO to handle the server-side logic and real-time communication between users.
+Beyond my ServiceNow expertise, I have a strong background in full-stack development. I thrive on building robust and scalable applications that meet the needs of businesses and users alike. I've developed and maintained features for websites and apps that handle high traffic, ensuring fast and reliable performance. My technical stack includes HTML5, CSS3, JavaScript, React.Js, Angular, Next.Js for frontend development and Node.js, Express.js, Socket.IO, C#, and .NET for backend development.
 
-Working on Moming was a challenging yet rewarding experience that allowed me to showcase my skills as a Full Stack Developer. It taught me the importance of creating solutions that address real-world problems and the value to deliver a high-quality product.
+One of my most rewarding projects was the development of Moming, an app designed to foster a supportive community for mothers. I led both the frontend and backend development, using React and Material UI to create a user-friendly interface and Node.js with Express.js for server-side logic. This experience sharpened my ability to address real-world challenges through technology and deliver impactful, high-quality solutions.
 
-Before my career in tech, I was a professional Muay Thai fighter and teacher for over 10 years. This experience instilled in me the values of persistence, discipline, leadership, and teamwork that have carried over to my work in technology.
+Currently, I am further expanding my expertise in C# and .NET, solidifying my skills in building enterprise-grade applications. In my free time, I dedicate myself to side projects—most recently, I’ve been working on a delivery app, honing my ability to tackle diverse challenges in software development.
 
-Currently, I am also working with C# and .NET.
-
-In my free time, I enjoy cooking and experimenting with new recipes. I'm always open to collaboration and new ideas, so feel free to get in touch if you have any projects or advice you'd like to discuss!
-
+You can also find me on GitHub at https://github.com/RenanBezerraEnes.
 You can also find me on LinkedIn at https://www.linkedin.com/in/renanbezerra/</h3>
 <img align="right" alt="Coding" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 

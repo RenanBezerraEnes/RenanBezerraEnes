@@ -21,7 +21,7 @@ You can also find me on LinkedIn at https://www.linkedin.com/in/renanbezerra/</h
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renanbezerraenes&label=Profile%20views&color=0e75b6&style=flat" alt="renanbezerraenes" /> </p>
 
-- 🌱 I’m currently working with **ANGULAR, C#, .NET Core, Azure Devops, SCRUM, REACT.JS, NODE.JS**
+- 🌱 I’m currently working/learning with **ANGULAR, C#, .NET Core, Azure Devops, SCRUM, REACT.JS, NODE.JS, DOCKER**
 
 - 💬 **I'm working at the moment as a ServiceNow Developer for Affinis, and as a Software Developer as well, not so many commits here :)**
 
